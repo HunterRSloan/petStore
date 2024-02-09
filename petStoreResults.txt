@@ -1,0 +1,49 @@
+Day 1 08:00
+0800: Manager John arrives and opens the store.
+0800: Animals in the store make noise.
+Feline Whiskers makes noise.
+Feline Mittens makes noise.
+Feline Fluffy makes noise.
+Canine Buddy makes noise.
+Canine Max makes noise.
+Canine Luna makes noise.
+
+Day 1 09:00
+0900: Clerk Clem arrives and feeds the animals.
+Feline Whiskers is eating.
+Feline Mittens is eating.
+Feline Fluffy is eating.
+Canine Buddy is eating.
+Canine Max is eating.
+Canine Luna is eating.
+
+Day 1 11:00
+1100: Clerk Clem plays with the animals.
+Feline Whiskers is playing.
+Feline Mittens is playing.
+Feline Fluffy is playing.
+Canine Buddy is playing.
+Canine Max is playing.
+Canine Luna is playing.
+
+Day 1 12:00
+1200: Manager John performs lunch.
+1300: Staff member has lunch.
+
+Day 1 16:00
+1600: Clerk Clem sells animals.
+Animal sold!
+Animal sold!
+
+Day 1 17:00
+1700: Clerk Clem performs leave.
+
+Day 1 18:00
+1800: Manager John performs closeStore and leave.
+1800: Animals in the store go to sleep.
+Animal Whiskers is sleeping.
+Animal Mittens is sleeping.
+Animal Fluffy is sleeping.
+Animal Buddy is sleeping.
+Animal Max is sleeping.
+Animal Luna is sleeping.
